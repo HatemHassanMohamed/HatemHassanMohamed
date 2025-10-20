@@ -1,16 +1,20 @@
-## Hi there 👋
+ git add README.md
+git commit -m "Update profile README"
+git push origin master
+Author identity unknown
 
-<!--
-**HatemHassanMohamed/HatemHassanMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*** Please tell me who you are.
 
-Here are some ideas to get you started:
+Run
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hatem@hatem-Latitude-5580.(none)')
+Username for 'https://github.com':  HatemHassanMohamed 
+Password for 'https://%20HatemHassanMohamed@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/startbootstrap/startbootstrap-resume.git/'
