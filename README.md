@@ -1,15 +1,17 @@
+<h3 align="center">🏆 Competitive Programming</h3>
+
 <div align="center">
   <a href="https://codeforces.com/profile/HatemHassan" target="_blank">
-    <img src="https://cdn-b.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png?1620450530" width="44" height="32" alt="codeforces logo" />
+    <img src="https://cdn-b.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png?1620450530" width="54" height="40" alt="codeforces logo" />
   </a>
   <a href="https://atcoder.jp/users/HatemTomHassan" target="_blank">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" width="44" height="32" alt="atcoder logo" />
+    <img src="https://img.atcoder.jp/assets/atcoder.png" width="54" height="40" alt="atcoder logo" />
   </a>
   <a href="https://leetcode.com/u/Hatem_Hassan/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="44" height="32" alt="leetcode logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="54" height="40" alt="leetcode logo" />
   </a>
   <a href="https://vjudge.net/user/HatemHassan" target="_blank">
-    <img src="https://scontent.fcai19-11.fna.fbcdn.net/v/t39.30808-6/303619273_450614343776273_4312090158253002764_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gQAizIhPZIMQ7kNvwESFkGn&_nc_oc=AdkbD1TEbniSKKJz6EYqG9Pl63VwJqB4pSb_KT9nKaozBkYa9F2fkmN9aE9iYSgSqmQ&_nc_zt=23&_nc_ht=scontent.fcai19-11.fna&_nc_gid=xFLir_jGzq5rMDA5mQn9jQ&oh=00_Afc31-bgPDK5YBmfIe0mkMHFDXjUpIwonrdW23XM5joAxA&oe=68FC026B" width="44" height="32" alt="vjudge logo" />
+    <img src="https://scontent.fcai19-11.fna.fbcdn.net/v/t39.30808-6/303619273_450614343776273_4312090158253002764_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gQAizIhPZIMQ7kNvwESFkGn&_nc_oc=AdkbD1TEbniSKKJz6EYqG9Pl63VwJqB4pSb_KT9nKaozBkYa9F2fkmN9aE9iYSgSqmQ&_nc_zt=23&_nc_ht=scontent.fcai19-11.fna&_nc_gid=xFLir_jGzq5rMDA5mQn9jQ&oh=00_Afc31-bgPDK5YBmfIe0mkMHFDXjUpIwonrdW23XM5joAxA&oe=68FC026B" width="54" height="40" alt="vjudge logo" />
   </a>
 </div>
 
@@ -22,8 +24,6 @@
 ###
 
 <h3 align="center">🛠 Language and Tools</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
