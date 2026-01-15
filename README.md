@@ -12,10 +12,6 @@
   <a href="https://leetcode.com/u/Hatem_Hassan/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="38" alt="leetcode logo" />
   </a>
-  <img width="30" />
-  <a href="https://vjudge.net/user/HatemHassan" target="_blank">
-    <img src="https://scontent.fcai19-11.fna.fbcdn.net/v/t39.30808-6/303619273_450614343776273_4312090158253002764_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gQAizIhPZIMQ7kNvwESFkGn&_nc_oc=AdkbD1TEbniSKKJz6EYqG9Pl63VwJqB4pSb_KT9nKaozBkYa9F2fkmN9aE9iYSgSqmQ&_nc_zt=23&_nc_ht=scontent.fcai19-11.fna&_nc_gid=xFLir_jGzq5rMDA5mQn9jQ&oh=00_Afc31-bgPDK5YBmfIe0mkMHFDXjUpIwonrdW23XM5joAxA&oe=68FC026B" width="52" height="38" alt="vjudge logo" />
-  </a>
 </div>
 
 ###
