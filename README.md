@@ -1,20 +1,3 @@
-<h3 align="center">🏆 Competitive Programming</h3>
-
-<div align="center">
-  <a href="https://codeforces.com/profile/HatemHassan" target="_blank">
-    <img src="https://cdn-b.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png?1620450530" width="52" height="38" alt="codeforces logo" />
-  </a>
-  <img width="30" />
-  <a href="https://atcoder.jp/users/HatemTomHassan" target="_blank">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" width="52" height="38" alt="atcoder logo" />
-  </a>
-  <img width="30" />
-  <a href="https://leetcode.com/u/Hatem_Hassan/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="38" alt="leetcode logo" />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HatemHassanMohamed.HatemHassanMohamed&" />
